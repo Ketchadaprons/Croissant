@@ -24,7 +24,7 @@ p {
   line-height: 30px;
 }
 .main-card {
-  background: rgba(255, 255, 255, 0.93);
+  background: #f9f8ebee;
   border-radius: 4px;
   padding: 40px;
   margin: 100px 40px;
